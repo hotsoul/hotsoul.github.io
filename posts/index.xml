@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>株式会社ホットソウル 2017</copyright>
-    <lastBuildDate>Tue, 07 Nov 2017 11:27:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2017 11:40:19 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.hotsoul.jp/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>初めての CircleCI でブログを build &amp; deploy</title>
+      <link>https://blog.hotsoul.jp/posts/my-first-circleci/</link>
+      <pubDate>Tue, 21 Nov 2017 11:40:19 +0900</pubDate>
+      
+      <guid>https://blog.hotsoul.jp/posts/my-first-circleci/</guid>
+      <description>ブログアップデートの手順を自動化しよう 今年に入ってから携わったお仕事で初めて触れた文化？の中に、CI(Continuous Integrati</description>
+    </item>
     
     <item>
       <title>初めての GitHubPages でブログを公開</title>
