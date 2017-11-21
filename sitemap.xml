@@ -3,19 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.hotsoul.jp/posts/my-first-githubpages/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/posts/my-first-hugo/</loc>
+    <lastmod>2017-11-06T11:51:24+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/categories/essay/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/githubpages/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/hugo/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/categories/ict/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/posts/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.hotsoul.jp/tags/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2017-11-07T11:27:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
