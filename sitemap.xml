@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.hotsoul.jp/posts/hotsoul-blog-open/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/posts/my-first-circleci/</loc>
     <lastmod>2017-11-21T11:40:19+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,6 +31,13 @@
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/tags/blog/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -38,7 +52,21 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/categories/essay/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/favicon/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/github/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -51,36 +79,50 @@
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/tags/googleanalytics/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.hotsoul.jp/tags/hugo/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.hotsoul.jp/categories/ict/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.hotsoul.jp/posts/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.hotsoul.jp/tags/</loc>
-    <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E5%BE%93%E6%A5%AD%E5%93%A1%E5%8B%9F%E9%9B%86/</loc>
+    <lastmod>2017-11-24T00:12:25+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
