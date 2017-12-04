@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.hotsoul.jp/posts/from-nov-to-dec/</loc>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/posts/dumau-samukawa-20171126/</loc>
     <lastmod>2017-11-28T10:21:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,7 +80,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/categories/essay/</loc>
-    <lastmod>2017-11-28T10:21:26+09:00</lastmod>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -108,7 +115,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/</loc>
-    <lastmod>2017-11-28T10:21:26+09:00</lastmod>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -129,7 +136,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/posts/</loc>
-    <lastmod>2017-11-28T10:21:26+09:00</lastmod>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -137,6 +144,34 @@
   <url>
     <loc>https://blog.hotsoul.jp/tags/</loc>
     <lastmod>2017-11-28T10:21:26+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E3%81%8A%E9%81%8A%E6%88%AF%E4%BC%9A/</loc>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8/</loc>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E3%82%B3%E3%83%9E%E3%81%95%E3%82%93/</loc>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E3%83%93%E3%83%87%E3%82%AA%E6%92%AE%E5%BD%B1/</loc>
+    <lastmod>2017-12-04T22:58:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
