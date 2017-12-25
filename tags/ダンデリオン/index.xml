@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ダンデリオン on Hotsoul Blog</title>
+    <link>https://blog.hotsoul.jp/tags/%E3%83%80%E3%83%B3%E3%83%87%E3%83%AA%E3%82%AA%E3%83%B3/</link>
+    <description>Recent content in ダンデリオン on Hotsoul Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>株式会社ホットソウル 2017</copyright>
+    <lastBuildDate>Mon, 25 Dec 2017 10:47:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.hotsoul.jp/tags/%E3%83%80%E3%83%B3%E3%83%87%E3%83%AA%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ゲームを通して学ぶ体験（Dandelion）</title>
+      <link>https://blog.hotsoul.jp/posts/dandelion/</link>
+      <pubDate>Mon, 25 Dec 2017 10:47:49 +0900</pubDate>
+      
+      <guid>https://blog.hotsoul.jp/posts/dandelion/</guid>
+      <description>勉強会 12月某日、従兄弟の紹介で参加させて頂いたいる隔月実施の勉強会に出席した。 診断士同士の勉強会とは毛色が異なり、タイムマネジメント・チー</description>
+    </item>
+    
+  </channel>
+</rss>
