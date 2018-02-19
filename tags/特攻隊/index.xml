@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>特攻隊 on Hotsoul Blog</title>
+    <link>https://blog.hotsoul.jp/tags/%E7%89%B9%E6%94%BB%E9%9A%8A/</link>
+    <description>Recent content in 特攻隊 on Hotsoul Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>株式会社ホットソウル 2017</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 17:24:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.hotsoul.jp/tags/%E7%89%B9%E6%94%BB%E9%9A%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family History</title>
+      <link>https://blog.hotsoul.jp/posts/family-history/</link>
+      <pubDate>Mon, 19 Feb 2018 17:24:47 +0900</pubDate>
+      
+      <guid>https://blog.hotsoul.jp/posts/family-history/</guid>
+      <description>家族の歴史を徹底取材 NHKのドキュメンタリー番組で、ファミリーヒストリーという番組がある。 著名人の家族の歴史を徹底取材し、ご本人も知らないよ</description>
+    </item>
+    
+  </channel>
+</rss>

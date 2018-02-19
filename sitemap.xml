@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.hotsoul.jp/posts/family-history/</loc>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/posts/can-not-see/</loc>
     <lastmod>2018-01-22T21:12:40+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -108,7 +115,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/categories/essay/</loc>
-    <lastmod>2018-01-22T21:12:40+09:00</lastmod>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -150,7 +157,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/</loc>
-    <lastmod>2018-01-22T21:12:40+09:00</lastmod>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -171,7 +178,7 @@
   
   <url>
     <loc>https://blog.hotsoul.jp/posts/</loc>
-    <lastmod>2018-01-22T21:12:40+09:00</lastmod>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -254,6 +261,13 @@
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/tags/%E3%83%AB%E3%83%BC%E3%83%84/</loc>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/tags/%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0/</loc>
     <lastmod>2017-12-11T21:16:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -275,6 +289,13 @@
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/tags/%E6%88%A6%E4%BA%89/</loc>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/categories/%E6%9F%94%E8%A1%93/</loc>
     <lastmod>2017-11-28T10:21:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -282,8 +303,22 @@
   </url>
   
   <url>
+    <loc>https://blog.hotsoul.jp/tags/%E7%89%B9%E6%94%BB%E9%9A%8A/</loc>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hotsoul.jp/tags/%E7%8B%AC%E8%87%AA%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3/</loc>
     <lastmod>2017-11-21T11:40:19+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hotsoul.jp/tags/%E7%A5%96%E7%88%B6%E6%AF%8D/</loc>
+    <lastmod>2018-02-19T17:24:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
