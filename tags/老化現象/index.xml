@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>老化現象 on Hotsoul Blog</title>
+    <link>https://blog.hotsoul.jp/tags/%E8%80%81%E5%8C%96%E7%8F%BE%E8%B1%A1/</link>
+    <description>Recent content in 老化現象 on Hotsoul Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>株式会社ホットソウル 2017-2018</copyright>
+    <lastBuildDate>Tue, 17 Apr 2018 00:17:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.hotsoul.jp/tags/%E8%80%81%E5%8C%96%E7%8F%BE%E8%B1%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>飛蚊症</title>
+      <link>https://blog.hotsoul.jp/posts/flying-fly/</link>
+      <pubDate>Tue, 17 Apr 2018 00:17:56 +0900</pubDate>
+      
+      <guid>https://blog.hotsoul.jp/posts/flying-fly/</guid>
+      <description>目のゴミが取れない ちょうど１週間前のこと。仕事中にパソコンの画面に向かっていて、ふと小さな異変に気が付いた。 何やらホコリのようなものが、右目</description>
+    </item>
+    
+  </channel>
+</rss>
