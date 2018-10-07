@@ -1,7 +1,8 @@
 # ベースイメージ 
 FROM node:10.1.0-alpine
 
-ENV NODE_ENV=development \
+# TODO 2018.10.08 NODE_ENVの設定をどこでも見ていないので活かせていない
+ENV NODE_ENV=development \ 
     DOC_ROOT=docs
 
 RUN npm i npm@latest -g && \ 

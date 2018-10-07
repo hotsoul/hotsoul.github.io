@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+//==============================
+// mixin定義
+//==============================
+
+// develop用ガイド
+@mixin borderColor( $colorType ) {
+    $borderColorList: #3261AB, #BF1E56, #F6CA06, #23AC0E, #007FB1, #744199;
+    $color: nth($borderColorList, $colorType);
+    @if $DEVMODE {
+        border: solid 2px $color;
+    }
+}
