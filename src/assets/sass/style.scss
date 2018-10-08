@@ -2,21 +2,37 @@
 @import "setting";
 @import "mixin";
 
-[data-span] {
-  background: linear-gradient(to left, rgba(red, 0.125), rgba(red, 0.125)), rgba(white, 0.5);
-  background-clip: content-box, padding-box;
-  float: left;
-  //padding-bottom: 1rem;
-  //padding-top: 1rem;
-  outline: 1px solid red;
-  text-align: center;
-}
-
-
-img {
+// ヘッダーバナー
+.headerBanner {
+    display: block;
     width: 100%;
     height: auto;
+    position: fixed;
+    top: 50vh;
+    background: rgba(#ffffff, 0.9);
+    text-align: center;
     @include borderColor(1);
 }
 
+.headerBanner__img {
+    max-width: 80%;
+    height: auto;
+}
 
+// コンテンツセクション
+.contentsSection {
+    display: block;
+    width: 80%;
+    max-width: 1000px;
+    min-height: 55vh;
+    margin-right: auto;
+    margin-left: auto;
+    @include borderColor(2);
+}
+
+// フッターセクション
+.footerSection {
+    @extend .contentsSection;
+    min-height: 35vh;
+    @include borderColor(3);
+}

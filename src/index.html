@@ -30,9 +30,11 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <style type="text/css">
+/*
     article, aside, figure, figcaption, footer, header, nav, section {
         display: block;
     }
+    */
     </style>
     <!-- @@@end -->
     <!-- TODO:urlが確定したらGAタグ追加する -->
@@ -74,27 +76,30 @@
 </head>
 <body>
     <!-- TODO:ローディングアニメ -->
-    <header>
-        <img src="assets/img/hotsoul_logo_rct_trans_M.png" alt="会社ロゴ-長方形">
+    <header class="headerBanner">
+        <picture>
+            <source media="(max-width: 628px)" srcset="assets/img/hotsoul_logo_rct_trans_M.png">
+            <img class="headerBanner__img" src="assets/img/hotsoul_logo_rct_trans_L.png" alt="会社ロゴ-長方形">
+        </picture>
     </header>
     <main>
-        <section>
+        <section class="contentsSection">
             About - 株式会社ホットソウルについて
         </section>
-        <section>
+        <section class="contentsSection">
             What's new - 新着情報
         </section>
-        <section>
+        <section class="contentsSection">
             Services & Products - サービスと製品
         </section>
-        <section>
+        <section class="contentsSection">
             Recruitment - 採用活動
         </section>
-        <section>
+        <section class="contentsSection">
             Contact - 連絡先
         </section>
     </main>
-    <footer>
+    <footer class="footerSection">
         - ナビゲーション
         - シェアボタン
         - コピーライト表示

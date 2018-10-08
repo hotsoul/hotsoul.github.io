@@ -5,10 +5,11 @@
 //==============================
 
 // develop用ガイド
+// colorType指定は、1 - 6 まで
 @mixin borderColor( $colorType ) {
     $borderColorList: #3261AB, #BF1E56, #F6CA06, #23AC0E, #007FB1, #744199;
     $color: nth($borderColorList, $colorType);
-    @if $DEVMODE {
+    @if $IS_DEVMODE {
         border: solid 2px $color;
     }
 }
