@@ -7,8 +7,8 @@
     display: block;
     width: 100%;
     height: auto;
-    position: fixed;
-    top: 50vh;
+    //position: fixed;
+    //top: 50vh;
     background: rgba(#ffffff, 0.9);
     text-align: center;
     @include borderColor(1);
@@ -22,17 +22,19 @@
 // コンテンツセクション
 .contentsSection {
     display: block;
-    width: 80%;
+    width: 100%;
     max-width: 1000px;
-    min-height: 55vh;
-    margin-right: auto;
-    margin-left: auto;
+    height: auto;
+    //min-height: 55vh;
+    //margin-right: auto;
+    //margin-left: 2vw;
+    padding-left: 0.5vw;
     @include borderColor(2);
 }
 
 // フッターセクション
 .footerSection {
     @extend .contentsSection;
-    min-height: 35vh;
+    //min-height: 35vh;
     @include borderColor(3);
 }

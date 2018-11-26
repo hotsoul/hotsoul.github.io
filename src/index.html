@@ -54,7 +54,7 @@
         },
         "name": "HotSoul - 株式会社ホットソウル",
         "description": "株式会社ホットソウルのホームページです。",
-        "headline": "株株式会社ホットソウルは、受託開発を中心としたICT事業と中小企業診断士の資格を活かした経営コンサルティング事業を展開しています。",
+        "headline": "株式会社ホットソウルは、受託開発を中心としたICT事業と中小企業診断士の資格を活かした経営コンサルティング事業を展開しています。",
         "image": [
             "https://www.hotsoul.jp/assets/img/hotsoul_logo_rct_L.jpg"
         ],
@@ -75,7 +75,14 @@
     </script>
 </head>
 <body>
-    <!-- TODO:ローディングアニメ -->
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2&appId=253918085173147&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <header class="headerBanner">
         <picture>
             <source media="(max-width: 628px)" srcset="assets/img/hotsoul_logo_rct_trans_M.png">
@@ -84,10 +91,13 @@
     </header>
     <main>
         <section class="contentsSection">
-            About - 株式会社ホットソウルについて
+            <h1>About - 株式会社ホットソウルについて</h1>
+            <p>株式会社ホットソウルは、2011年に茅ヶ崎の海にほど近い小さなアパートで創業しました。</p>
+            <p>受託開発を中心としたICT事業と中小企業診断士の資格を活かした経営コンサルティング事業を展開しています。</p>
         </section>
         <section class="contentsSection">
-            What's new - 新着情報
+            <h1>What's new - 新着情報</h1>
+            <div class="fb-page" data-href="https://www.facebook.com/HotsoulDotJp/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HotsoulDotJp/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HotsoulDotJp/">株式会社ホットソウル</a></blockquote></div>
         </section>
         <section class="contentsSection">
             Services & Products - サービスと製品
@@ -100,9 +110,7 @@
         </section>
     </main>
     <footer class="footerSection">
-        - ナビゲーション
-        - シェアボタン
-        - コピーライト表示
+        <p>Copyright &copy; 株式会社ホットソウル</p>
     </footer>
 </body>
 </html>
