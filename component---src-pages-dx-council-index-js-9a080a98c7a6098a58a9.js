@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[35],{397:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return a}});var r=l(7294),n=l(7198),u=l(3751);function a(){return r.createElement(n.Z,null,r.createElement(u.Z,{title:"やさしいDX推進協議会ホーム"}),r.createElement("div",null,"やさしいDX推進協議会のホームです"))}}}]);
+//# sourceMappingURL=component---src-pages-dx-council-index-js-9a080a98c7a6098a58a9.js.map

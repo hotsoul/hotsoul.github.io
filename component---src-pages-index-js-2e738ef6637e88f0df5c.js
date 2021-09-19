@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{7704:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return a}});var r=l(7294),n=l(7198),u=l(3751);function a(){return r.createElement(n.Z,null,r.createElement(u.Z,{title:"ホーム"}),r.createElement("div",null,"小さな会社のデジタル化・IT活用サポートなら株式会社ホットソウルにお任せ下さい！(仮)"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2e738ef6637e88f0df5c.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[956],{6771:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return a}});var r=l(7294),n=l(7198),u=l(3751);function a(){return r.createElement(n.Z,null,r.createElement(u.Z,{title:"このサイトについて"}),r.createElement("div",null,"このWebサイトについて、個人情報の保護とかなんとか"))}}}]);
+//# sourceMappingURL=component---src-pages-about-website-js-5d3dd68fdac4e4df093e.js.map
