@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-404-js","path":"/404/","result":{"data":{"site":{"siteMetadata":{"title":"小規模事業者のデジタル化・IT活用サポート HOTSOUL"}}},"pageContext":{}},"staticQueryHashes":["3159585216","3261487954"]}
+{
+    "componentChunkName": "component---src-pages-404-js",
+    "path": "/404/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"小規模事業者のデジタル化・IT活用サポート HOTSOUL"}}},"pageContext":{}},
+    "staticQueryHashes": ["3159585216","3261487954"]}
