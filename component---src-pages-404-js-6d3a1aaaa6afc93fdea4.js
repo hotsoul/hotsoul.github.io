@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{9616:function(t,e,l){"use strict";l.r(e);var a=l(7294),n=l(7198),r=l(3751);e.default=function(t){var e=t.data,l=t.location,o=e.site.siteMetadata.title;return a.createElement(n.Z,{location:l,title:o},a.createElement(r.Z,{title:"404: Not Found"}),a.createElement("h1",null,"404: Not Found"),a.createElement("p",null,"ページが見つかりません(T_T)"))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-6d3a1aaaa6afc93fdea4.js.map
